@@ -5,7 +5,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 -  &nbsp; Exploring new technologies and developing software.
--  &nbsp; Completiing degree in Cyber Operations at The United States Naval Academy.
+-  &nbsp; Completing degree in Cyber Operations at The United States Naval Academy.
 -  &nbsp; CTF enthusiast
 -  &nbsp; Looking for side coding jobs to keep skill up after graduation (2021).
 -  &nbsp; Currently immersed in Penetration testing, Reverse Engineering, and Automation.
