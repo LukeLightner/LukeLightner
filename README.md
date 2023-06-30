@@ -7,9 +7,7 @@
 -  &nbsp; Exploring new technologies and developing software.
 -  &nbsp; Completing degree in Cyber Operations at The United States Naval Academy.
 -  &nbsp; CTF enthusiast
--  &nbsp; Looking for side coding jobs to keep skill up after graduation (2021).
 -  &nbsp; Currently immersed in Penetration testing, Reverse Engineering, and Automation.
--  &nbsp; Intested in working in Penetration testing, blog writing on cyber issues, and reversing as side hustles.
 
 <h3> Find Me Here </h3>
 <a href="https://www.linkedin.com/in/luke-lightner-6792b520a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luke%20Lightner-blue?style=flat-square&logo=linkedin"></a>
